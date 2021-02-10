@@ -1,3 +1,5 @@
+code ref :https://www.kaggle.com/gennadylaptev/factorization-machine-implemented-in-pytorch
+
 import numpy as np
 import torch
 from sklearn.utils import shuffle
